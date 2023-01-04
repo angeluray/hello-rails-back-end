@@ -120,7 +120,6 @@ git clone git@github.com:angeluray/hello-rails-react.git
 type : cd hello-rails-react
 
 Type : bundle install
-Type : npm i
 
 Then change the username and password within the database.yml and set yours.
 
@@ -130,6 +129,7 @@ Run:
 
 - rails db:create
 - rails db:migrate
+- rails s -p 3001
 
 ### Usage
 
