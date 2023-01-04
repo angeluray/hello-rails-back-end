@@ -117,7 +117,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-git clone git@github.com:angeluray/hello-rails-react.git
+git clone git@github.com:angeluray/hello-rails-back-end.git
 
 ### Install
 
