@@ -55,10 +55,14 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails and React <a name="about-project"></a>
+# 📖 Hello Rails Backend <a name="about-project"></a>
 
 
-**Hello Rails and React App** is an App that displays random predefined greetings and works for getting familiar with Full-stacks applications mixing React and Redux with the Server side using Rails.
+**Hello Rails and React App** is an App that displays random predefined greetings and works for getting familiar with Full-stacks applications mixing React and Redux with the Server side using an API created in Rails.
+
+# Frontend Project
+
+[Hello React Frontend](https://github.com/angeluray/hello-react-front-end/tree/setup/features)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -129,13 +133,12 @@ Run:
 
 - rails db:create
 - rails db:migrate
-- rails s -p 3001
 
 ### Usage
 
 To run the project, execute the following command:
 
-**./bin/dev**
+- rails s -p 3001
 
 
 <!-- AUTHORS -->
